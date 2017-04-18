@@ -1,8 +1,11 @@
 {
   "name": "gulp-ug",
-  "version": "0.0.1",
+  "version": "1.0.5",
   "description": "gulp js confusion",
   "main": "./index.js",
+  "scripts": {
+    "pub": "npm publish"
+  },
   "dependencies": {
     "escodegen": "^1.6.1",
     "esprima": "^2.5.0",
