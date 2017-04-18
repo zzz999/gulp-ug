@@ -1,10 +1,14 @@
 {
   "name": "gulp-ug",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "gulp js confusion",
   "main": "./index.js",
   "scripts": {
     "pub": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zzz999/gulp-ug"
   },
   "dependencies": {
     "escodegen": "^1.6.1",
