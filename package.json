@@ -1,0 +1,15 @@
+{
+  "name": "gulp-ug",
+  "version": "0.0.1",
+  "description": "gulp js confusion",
+  "main": "./index.js",
+  "dependencies": {
+    "escodegen": "^1.6.1",
+    "esprima": "^2.5.0",
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3",
+    "uglify-js": "^2.4.24"
+  },
+  "author": "zzz999",
+  "license": "ISC"
+}
